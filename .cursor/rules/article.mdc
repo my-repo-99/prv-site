@@ -1,0 +1,6 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+urlが記事に関係ないか無効なものの場合記事は削除する
